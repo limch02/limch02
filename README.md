@@ -1,33 +1,42 @@
-# 안녕하세요 👋 저는 **LIM CHANHYEOK (limch02)** 입니다
+# Hi there 👋 I'm LIM CHANHYEOK (limch02)
 
-**🛠 관심 분야 / 역할**  
-Backend 개발자 | Python & Dart | 오픈 소스 & 학습 중심
-
----
-
-## 🚀 지금 하고 있는 것 & 배우는 것
-- 🎯 프로젝트: `basicgit1`, `basicgit2`, `basicgit3`, `basicgit4`, `basic_project` 등을 통해 **기초 프로그래밍 및 버전 관리 실습**  
-- 📚 지금 배우는 중: Git / 협업 워크플로우 / 코드 리뷰 / 테스트 자동화
+🎓 **CNU Computer Science Junior (충남대학교 컴퓨터공학과 3학년)**  
+💻 **Backend Developer in training @ NHN Academy Bootcamp**  
 
 ---
 
-## 📂 주요 프로젝트
-| 프로젝트명 | 기술 스택 | 설명 |
-|-------------|---------|------|
-| basicgit1 | (예: Python) | 기초적인 Git 명령어 익히기 프로젝트 |
-| basicgit2 | … | Git 응용 / 브랜치 사용 실습 등 |
-| basic_project | Dart / … | 작은 앱 혹은 기능 구현 프로젝트 |
+## 🚀 About Me
+- 🔭 I’m currently studying **Computer Science at CNU**  
+- 🌱 Learning **Spring Boot, Databases, and Modern Web Development** at **NHN Academy Bootcamp**  
+- 👯 I’m interested in **Open Source Collaboration** and real-world projects  
+- 💬 Ask me about **Java, Git, Databases, and Backend Development**  
+- ⚡ Fun fact: I enjoy solving problems step by step and turning ideas into real services!
 
 ---
 
-## 🧰 기술 스택
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+## 🛠️ Tech Stack
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub 통계
+## 📂 Featured Projects
+- **basicgit1 ~ basicgit4** → Git & GitHub 실습 프로젝트  
+- **basic_project** → 프로그래밍 기초를 활용한 개인 프로젝트  
+
+(앞으로 NHN 아카데미에서 진행하는 팀 프로젝트도 여기에 추가할 예정입니다!)
+
+---
+
+## 📊 GitHub Stats
 ![limch02’s GitHub stats](https://github-readme-stats.vercel.app/api?username=limch02&show_icons=true&theme=tokyonight)  
 
 ---
