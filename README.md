@@ -33,8 +33,8 @@ Backend 개발자 | Python & Dart | 오픈 소스 & 학습 중심
 ---
 
 ## 🌐 연락하기
-- 📧 이메일: your.email@example.com  
-- 🔗 LinkedIn: [Your LinkedIn 프로필](https://www.linkedin.com/in/…)  
+- 📧 이메일: imc35911@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/chanhyeok-lim-7a3186366/
 - 💡 블로그 / 기타: …
 
 ---
