@@ -1,6 +1,6 @@
 # Hi there 👋 I'm LIM CHANHYEOK (limch02)
 
-🎓 **CNU Computer Science Junior (충남대학교 컴퓨터공학과 3학년)**  
+🎓 **CNU Computer Science Junior (충남대학교 컴퓨터공학과 4학년)**  
 💻 **Backend Developer in training @ NHN Academy Bootcamp**  
 
 ---
@@ -28,14 +28,6 @@
 
 ---
 
-## 📂 Featured Projects
-- **basicgit1 ~ basicgit4** → Git & GitHub 실습 프로젝트  
-- **basic_project** → 프로그래밍 기초를 활용한 개인 프로젝트  
-
-(앞으로 NHN 아카데미에서 진행하는 팀 프로젝트도 여기에 추가할 예정입니다!)
-
----
-
 ## 📊 GitHub Stats
 ![limch02’s GitHub stats](https://github-readme-stats.vercel.app/api?username=limch02&show_icons=true&theme=tokyonight)  
 
@@ -44,7 +36,6 @@
 ## 🌐 연락하기
 - 📧 이메일: imc35911@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/chanhyeok-lim-7a3186366/
-- 💡 블로그 / 기타: …
 
 ---
 
