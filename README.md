@@ -1,19 +1,4 @@
 # Hi there 👋 I'm LIM CHANHYEOK (limch02)
-
-🎓 **CNU Computer Science Junior (충남대학교 컴퓨터공학과 4학년)**  
-💻 **Backend Developer in training @ NHN Academy Bootcamp**  
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently studying **Computer Science at CNU**  
-- 🌱 Learning **Spring Boot, Databases, and Modern Web Development** at **NHN Academy Bootcamp**  
-- 👯 I’m interested in **Open Source Collaboration** and real-world projects  
-- 💬 Ask me about **Java, Git, Databases, and Backend Development**  
-- ⚡ Fun fact: I enjoy solving problems step by step and turning ideas into real services!
-
----
-
 ## 🛠️ Tech Stack
 **Languages & Frameworks:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -28,18 +13,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![limch02’s GitHub stats](https://github-readme-stats.vercel.app/api?username=limch02&show_icons=true&theme=tokyonight)  
-
----
-
 ## 🌐 연락하기
 - 📧 이메일: imc35911@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/chanhyeok-lim-7a3186366/
 
----
-
-## ⚡ 취미 & Fun Fact
-- 🎮 게임, 🎧 음악 감상  
-- 📷 사진 찍는 걸 좋아해요  
-- 🤔 “매일 하나는 새로 배우자” — 작은 목표지만 꾸준함이 중요하다고 생각함
